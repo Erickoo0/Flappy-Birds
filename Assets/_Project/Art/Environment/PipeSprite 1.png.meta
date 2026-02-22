@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 6111d31e705cd6b4cba60a0ae2925332
+guid: e45f6b7663988ff4eae59f1b0f90aac1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1577582320668638034
-    second: PipeSprite_0
+      213: -1192422905528217438
+    second: PipeSprite 1_0
   - first:
-      213: -8209882007610493150
-    second: PipeSprite_1
+      213: 5417068704844812344
+    second: PipeSprite 1_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PipeSprite_0
+      name: PipeSprite 1_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 126
-        width: 42
-        height: 74
+        x: 41
+        y: 234
+        width: 46
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ea40c9cdc3d4b1ae0800000000000000
-      internalID: -1577582320668638034
+      spriteID: 2a093f56fa9a37fe0800000000000000
+      internalID: -1192422905528217438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PipeSprite_1
+      name: PipeSprite 1_1
       rect:
         serializedVersion: 2
-        x: 43
+        x: 41
         y: 0
-        width: 42
-        height: 70
+        width: 46
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2277188dfc3a01e80800000000000000
-      internalID: -8209882007610493150
+      spriteID: 8301924494b4d2b40800000000000000
+      internalID: 5417068704844812344
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PipeSprite_0: -1577582320668638034
-      PipeSprite_1: -8209882007610493150
+      PipeSprite 1_0: -1192422905528217438
+      PipeSprite 1_1: 5417068704844812344
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
